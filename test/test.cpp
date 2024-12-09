@@ -17,7 +17,7 @@ public:
 };
 
 int main(){
-    complex a(1.2, 3.4);
+    complex a(1.2, 3.1);
     complex b(5.6, 7.8);
     complex c;
     if (a < b) {
