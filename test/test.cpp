@@ -17,7 +17,8 @@ public:
 };
 
 int main(){
-    complex a(1.2, 3.1);
+    // Пишу дичь
+    complex a(1.2, 3.0);
     complex b(5.6, 7.8);
     complex c;
     if (a < b) {
