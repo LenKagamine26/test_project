@@ -23,7 +23,6 @@ int main(){
     if (a < b) {
         a.display();
     }
-    //пупазалупа
     else {
         b.display();
     }
